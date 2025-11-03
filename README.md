@@ -1,5 +1,5 @@
 # JPMorgan-DA-and-Dashboards
-Oct 2025
+Oct - Nov 2025
 
 This project is based on synthetic banking data inspired by JPMorgan. The objective is to perform an in-depth analysis of multiple data sources, including sales, customer, and salary data, to uncover meaningful trends and patterns. By applying data analysis and visualization techniques, I aim to translate complex raw data into actionable business insights.
 
