@@ -5,4 +5,4 @@ This project is based on synthetic banking data inspired by JPMorgan. The object
 
 The final deliverable will be an interactive dashboard that presents a holistic view of the organization’s performance metrics. This dashboard will enable key stakeholders to make data-driven decisions more effectively, such as identifying profitable customer segments, designing targeted marketing campaigns, and optimizing operational strategies. In essence, the project bridges data analytics with business intelligence, transforming information into strategic value for decision-makers.
 
-More TO BE UPDATED!
+This project and the content in this repo is yet to be updated
