@@ -48,8 +48,8 @@ The dashboard converts raw numbers into **actionable insights**.
 
 ---
 
-### **3. Data Storytelling PPT**
-A clean, business-focused presentation summarizing insights from the dashboard:
+### **3. Data Storytelling WORD DOCUMENT**
+A clean, business-focused document summarizing insights from the dashboard:
 
 - Growth patterns  
 - Segment-wise performance  
@@ -57,7 +57,7 @@ A clean, business-focused presentation summarizing insights from the dashboard:
 - Strategic recommendations  
 - Key findings  
 
-This PPT acts as the **final storytelling layer** for executives and leadership.
+This document acts as the **final storytelling layer** for executives and leadership.
 
 ---
 
@@ -75,7 +75,7 @@ This PPT acts as the **final storytelling layer** for executives and leadership.
 
 - **Microsoft Excel** – Data preparation  
 - **Power BI** – Dashboard modeling & visualization  
-- **Microsoft PowerPoint** – Data storytelling  
+- **Microsoft WORD** – Data storytelling  
 - **GitHub** – Documentation & version control  
 
 ---
